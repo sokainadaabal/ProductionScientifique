@@ -1,6 +1,6 @@
-package com.model;
+package com.ProductionScientifique.model;
 import javax.persistence.*;
-import java.io.*;
+import java.io.Serializable;
 
 @Entity
 public class Professor implements Serializable {

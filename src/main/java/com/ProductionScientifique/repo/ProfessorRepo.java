@@ -1,14 +1,14 @@
-package com.repo;
+package com.ProductionScientifique.repo;
 
-import com.model.Professor;
+import com.ProductionScientifique.model.Professor;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import java.util.Optional;
+import java.util.*;
 
 public interface ProfessorRepo  extends JpaRepository<Professor,Long>
 {
 
     void deleteProfessorById(Long id);
 
-    Optional<Professor> findprofessorById(Long id);
+    Optional<Professor> findProfessorById(Long id);
 }
