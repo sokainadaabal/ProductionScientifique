@@ -1,3 +1,4 @@
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/ManagementScientificProdcution.png"></img> 
 # ManagementScientificProduction  :writing_hand: 
 
 ## Description : 
@@ -11,7 +12,7 @@ pour quel il peut  mettre à jour les publications d'une  univeristé .
 
 - Dashborad : Administrateur, auteur(prof/doctorant)
 
--search.
+- search.
 
 ## conception : 
 -Diagramme de class :
