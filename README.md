@@ -15,8 +15,8 @@ pour quel il peut  mettre à jour les publications d'une  univeristé .
 - search.
 
 ## conception : 
--Diagramme de class :
-
+- Diagramme de class :
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/Mai.png"></img> 
 
 ## Backend:
 spring boot JWT ,Spring  security, spring jpa  .
