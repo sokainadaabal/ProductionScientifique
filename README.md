@@ -42,7 +42,7 @@ Angular 9.
 ## sceenshots : 
 ### Home Page :
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/home.png"></img> 
-## Register Page
+### Register Page
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/inscreption.png"></img> 
 ### Login Page:
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/login.png"></img> 
@@ -57,7 +57,7 @@ Angular 9.
 ### Table Doctorant : 
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/doctorant.png"></img> 
 ### Table Author :
-<img src="https://github.com/sokainadaabal/researchScientific/blob/main/actr.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/actor.png"></img> 
 ### Modal Add:
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/add.png"></img> 
 ### Modal Update : 
