@@ -40,21 +40,30 @@ REST : REpresentational State Transfer
 Angular 9.
 
 ## sceenshots : 
+### Home Page :
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/home.png"></img> 
+## Register Page
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/inscreption.png"></img> 
+### Login Page:
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/login.png"></img> 
+### How role is :
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/connectwithrole.png"></img> 
+### Dashboard Home :
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/dashbordhome.png"></img> 
+### Table Prof : 
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/prof.png"></img> 
+### Table Publication :
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/publication.png"></img> 
+### Table Doctorant : 
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/doctorant.png"></img> 
-<img src="https://github.com/sokainadaabal/researchScientific/blob/main/author.png"></img> 
+### Table Author :
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/actr.png"></img> 
+### Modal Add:
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/add.png"></img> 
+### Modal Update : 
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/update.png"></img> 
+### Profile Page : 
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/profile.png"></img> 
-
-
-
 
 ## Conclusion :
  On a décidé de créér cette plateforme avec ces technologies (spring boot / angular)  pour le but de facilite tous les taches d'un administrateur.
