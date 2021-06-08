@@ -41,6 +41,18 @@ Angular 9.
 
 ## sceenshots : 
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/home.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/inscreption.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/login.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/connectwithrole.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/dashbordhome.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/prof.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/publication.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/doctorant.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/author.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/add.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/update.png"></img> 
+<img src="https://github.com/sokainadaabal/researchScientific/blob/main/profile.png"></img> 
+
 
 
 
