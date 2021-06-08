@@ -1,0 +1,37 @@
+<div class="container" *ngIf="currentUser; else loggedOut">
+  <div class="card">
+    <header>
+      <div class="banner">
+        <div class="avatar"></div>
+      </div>
+      <h3>
+        <strong>{{ currentUser.username }}</strong> Profile
+      </h3>
+    </header>
+
+    <h3>Email:</h3>
+    <a href="mailto:currentUser.email">📧 {{ currentUser.email }}</a>
+    <a href="">
+      <ul>
+        <li *ngFor="let role of currentUser.roles">
+          {{ role }}
+        </li>
+      </ul></a
+    >
+    <ul>
+      <a href="#" target="_blank"
+        ><i class="fas fa-twitter" style="font-size: 16px"></i
+      ></a>
+      <a href="#" target="_blank"
+        ><i class="fa fa-linkedin" style="font-size: 16px"></i
+      ></a>
+      <a href="#" target="_blank"
+        ><i class="fas fa-instagram" style="font-size: 16px"></i
+      ></a>
+      <a href="#" target="_blank"
+        ><i class="fas fa-facebook-messenger" style="font-size: 18px"></i
+      ></a>
+    </ul>
+  </div>
+</div>
+<ng-template #loggedOut> Please login. </ng-template>
