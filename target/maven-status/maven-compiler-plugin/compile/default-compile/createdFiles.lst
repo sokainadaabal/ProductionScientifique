@@ -1,5 +1,0 @@
-com/ProductionScientifique/model/Professor.class
-com/ProductionScientifique/service/ProfessorService.class
-com/ProductionScientifique/ProfessorResource.class
-com/ProductionScientifique/repo/ProfessorRepo.class
-com/ProductionScientifique/exception/UserNotFoundException.class
