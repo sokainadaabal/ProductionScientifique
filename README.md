@@ -1,4 +1,4 @@
-# ManagementScientificProduction
+# ManagementScientificProduction  :writing_hand: 
 
 ## Description : 
 
@@ -7,11 +7,11 @@ pour quel il peut  mettre à jour les publications d'une  univeristé .
 
 
 ## Features:
-register and login.
+- register and login.
 
-Dashborad : Administrateur, auteur(prof/doctorant)
+- Dashborad : Administrateur, auteur(prof/doctorant)
 
-seach.
+-search.
 
 ## conception : 
 -Diagramme de class :
@@ -21,25 +21,22 @@ seach.
 spring boot JWT ,Spring  security, spring jpa  .
 
 
-JSON : JavaScript Object Notation
+- JSON : JavaScript Object Notation
 
-JDBC : Java Data Base Connectivity
+- JDBC : Java Data Base Connectivity
 
-JPA : Java Persistence API
+- JPA : Java Persistence API
 
-JWT : Json Web Token
+- JWT : Json Web Token
 
-ORM : Object Relational Mapping
+- ORM : Object Relational Mapping
 
-REST : REpresentational State Transfer
-
-
-
+- REST : REpresentational State Transfer
 
 ## Frontend:
 Angular 9.
 
-## sceenshots : 
+## sceenshots :camera_flash: : 
 ### Home Page :
 <img src="https://github.com/sokainadaabal/researchScientific/blob/main/home.png"></img> 
 ### Register Page
@@ -68,3 +65,6 @@ Angular 9.
 ## Conclusion :
  On a décidé de créér cette plateforme avec ces technologies (spring boot / angular)  pour le but de facilite tous les taches d'un administrateur.
  
+
+
+Crée Par : Sokaina Daabal Etudiante En LP FP SB 
